@@ -1,0 +1,65 @@
+2021-11-07 14:22:28 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2021-11-07 14:22:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-07 14:22:54 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-07 14:22:54 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2021-11-07 14:22:54 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-07 17:40:37 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2021-11-07 17:40:37 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-07 17:40:45 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-07 17:40:45 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2021-11-07 17:40:45 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-07 17:40:45 [INFO ] [Hooks] - [setUp] Scenario Started: Verify that the User is not able to login with invalid credentials
+2021-11-07 17:40:45 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-07 17:40:48 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-07 17:40:48 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify that the User is not able to login with invalid credentials
+2021-11-07 17:40:48 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-07 17:40:48 [INFO ] [Hooks] - [setUp] Scenario Started: Verify that the User is not able to login without providing credentials
+2021-11-07 17:40:48 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-07 17:40:51 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-07 17:40:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify that the User is not able to login without providing credentials
+2021-11-07 17:40:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-07 17:40:51 [INFO ] [Hooks] - [setUp] Scenario Started: Verify that the User is able to reset forgotten password
+2021-11-07 17:40:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-07 17:40:53 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-07 17:40:53 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2021-11-07 17:40:53 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-07 17:42:08 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2021-11-07 17:42:08 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-07 17:42:14 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-07 17:42:14 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2021-11-07 17:42:14 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-07 17:42:14 [INFO ] [Hooks] - [setUp] Scenario Started: Verify that the User is not able to login with invalid credentials
+2021-11-07 17:42:14 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-07 17:42:16 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-07 17:42:16 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify that the User is not able to login with invalid credentials
+2021-11-07 17:42:16 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-07 17:42:16 [INFO ] [Hooks] - [setUp] Scenario Started: Verify that the User is not able to login without providing credentials
+2021-11-07 17:42:16 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-07 17:42:19 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-07 17:42:19 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify that the User is not able to login without providing credentials
+2021-11-07 17:42:19 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-07 17:42:19 [INFO ] [Hooks] - [setUp] Scenario Started: Verify that the User is able to reset forgotten password
+2021-11-07 17:42:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-07 17:42:22 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-07 17:42:22 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2021-11-07 17:42:22 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-07 18:15:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to login with valid credentials
+2021-11-07 18:15:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-07 18:15:51 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-07 18:15:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to login with valid credentials
+2021-11-07 18:15:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-07 18:15:51 [INFO ] [Hooks] - [setUp] Scenario Started: Verify that the User is not able to login with invalid credentials
+2021-11-07 18:15:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-07 18:15:54 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-07 18:15:54 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify that the User is not able to login with invalid credentials
+2021-11-07 18:15:54 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-07 18:15:54 [INFO ] [Hooks] - [setUp] Scenario Started: Verify that the User is not able to login without providing credentials
+2021-11-07 18:15:54 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-07 18:15:56 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-07 18:15:56 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify that the User is not able to login without providing credentials
+2021-11-07 18:15:56 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-07 18:15:56 [INFO ] [Hooks] - [setUp] Scenario Started: Verify that the User is able to reset forgotten password
+2021-11-07 18:15:56 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-07 18:15:58 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-07 18:15:58 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
+2021-11-07 18:15:58 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed

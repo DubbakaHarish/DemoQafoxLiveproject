@@ -79,3 +79,4 @@ public class RegisterPage {
 		Elements.TypeText(RegisterPage.Password1, map.get("Password"));
 		Elements.TypeText(RegisterPage.PasswordConfirm, map.get("Password"));
 }
+}
