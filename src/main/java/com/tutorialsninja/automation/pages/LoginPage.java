@@ -24,6 +24,7 @@ import com.tutorialsninja.automation.framework.Elements;
 		public static WebElement mainwarinig;
 		@FindBy(linkText="Forgotten Password")
 		public static WebElement forgetpassword;
+		public static WebElement mainWarning;
 	
 		public static void doLogin(String email,String password){
 		

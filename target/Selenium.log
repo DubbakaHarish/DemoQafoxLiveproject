@@ -63,3 +63,18 @@
 2021-11-07 18:15:58 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
 2021-11-07 18:15:58 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify that the User is able to reset forgotten password
 2021-11-07 18:15:58 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-08 08:03:44 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2021-11-08 08:03:44 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-08 08:03:54 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-08 08:03:54 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2021-11-08 08:03:54 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-08 09:02:34 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is able to search for products
+2021-11-08 09:02:34 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-08 09:02:40 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-08 09:02:40 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is able to search for products
+2021-11-08 09:02:40 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-11-08 09:02:40 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the User is informed when the product being searched is not available
+2021-11-08 09:02:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: chrome
+2021-11-08 09:02:44 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-08 09:02:44 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the User is informed when the product being searched is not available
+2021-11-08 09:02:44 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
